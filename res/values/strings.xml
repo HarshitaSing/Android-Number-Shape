@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Number Shapes</string>
+    <string name="action_settings">Settings</string>
+    <string name="check">CHECK</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="check_if_the_number_is_triangular_or_square_or_both">Check if the number is triangular or square or both ?</string>
+    <string name="number_shapes">Number Shapes</string>
+</resources>
